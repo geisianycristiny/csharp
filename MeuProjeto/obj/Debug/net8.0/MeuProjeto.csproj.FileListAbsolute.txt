@@ -1,0 +1,15 @@
+T:\Workspace\geisiany\csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.exe
+T:\Workspace\geisiany\csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.deps.json
+T:\Workspace\geisiany\csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+T:\Workspace\geisiany\csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.dll
+T:\Workspace\geisiany\csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.pdb
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.sourcelink.json
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.dll
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\refint\MeuProjeto.dll
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+T:\Workspace\geisiany\csharp\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll
