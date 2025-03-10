@@ -1,6 +1,6 @@
 ﻿
 using System;
-using classes.modelo;
+using  classes.Modelo;
 
 // criando um objeto a partir da classe pessoa
 Pessoa obj = new Pessoa("Wanderson", 25,1.90,60);
