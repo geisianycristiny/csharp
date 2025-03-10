@@ -1,5 +1,5 @@
 ﻿using System;
-using veiculos.Modelo;
+using exercicio_classe.Modelo;
 
 //Criando um objeto a partir da classe Pessoa
 Veiculo obj = new Veiculo("Volkswagem", "Nivus", 2025 );
