@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\Workspace\\geisiany\\csharp\\csharp\\classes\\exercicio-classe\\exercicio-classe.csproj",
+      "projectUniqueName": "T:\\Workspace\\geisiany\\csharp\\csharp\\exercicio-classe\\exercicio-classe.csproj",
       "projectName": "exercicio-classe",
-      "projectPath": "T:\\Workspace\\geisiany\\csharp\\csharp\\classes\\exercicio-classe\\exercicio-classe.csproj",
+      "projectPath": "T:\\Workspace\\geisiany\\csharp\\csharp\\exercicio-classe\\exercicio-classe.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "T:\\Workspace\\geisiany\\csharp\\csharp\\classes\\exercicio-classe\\obj\\",
+      "outputPath": "T:\\Workspace\\geisiany\\csharp\\csharp\\exercicio-classe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
